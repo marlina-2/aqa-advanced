@@ -14,5 +14,3 @@ let height = 8;
 let cylinderVolume = Math.PI * Math.pow(cylinderRadius, 2) * height;
 cylinderVolume = cylinderVolume.toFixed(2);
 console.log("Cylinder volume is: ", cylinderVolume);
-
-
